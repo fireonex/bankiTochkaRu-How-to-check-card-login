@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bankiTochkaRu-How-to-check-card-login/static/css/main.bad19796.css",
+    "main.js": "/bankiTochkaRu-How-to-check-card-login/static/js/main.f1c3dfce.js",
+    "static/js/453.c3ea9b50.chunk.js": "/bankiTochkaRu-How-to-check-card-login/static/js/453.c3ea9b50.chunk.js",
+    "index.html": "/bankiTochkaRu-How-to-check-card-login/index.html",
+    "main.bad19796.css.map": "/bankiTochkaRu-How-to-check-card-login/static/css/main.bad19796.css.map",
+    "main.f1c3dfce.js.map": "/bankiTochkaRu-How-to-check-card-login/static/js/main.f1c3dfce.js.map",
+    "453.c3ea9b50.chunk.js.map": "/bankiTochkaRu-How-to-check-card-login/static/js/453.c3ea9b50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bad19796.css",
+    "static/js/main.f1c3dfce.js"
+  ]
+}
